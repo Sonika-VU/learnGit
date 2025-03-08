@@ -1,2 +1,12 @@
-Pre Assessment1.docx
-ihfrklesad.,jlfkjeif,
+Git Notes : 
+Commands -- 
+	git clone <repository>
+	git add <filename.txt>
+	git commit -m "Any comments to give"
+	git push
+
+
+3 levels in Repository : 
+	1. Remote repository
+	2. Staging repository
+	3. Local repository
